@@ -1,0 +1,2 @@
+SELECT customer_id, name, account_number, transaction_history FROM compromised_table 
+WHERE breach_date BETWEEN '2024-01-01' AND '2024-01-31';
