@@ -1,0 +1,21 @@
+# Data Recovery
+
+## Objective
+Determine the type and quantity of customer data that was potentially exposed. Develop a strategy for data recovery and incident containment.
+
+## Steps
+1. Catalog Exposed Data:
+   - Create an inventory of exposed data, identifying affected customers.
+   - Use SQL queries or data processing tools to extract relevant information.
+
+2. Evaluate Impact:
+   - Assess the potential impact on customers and the institution.
+   - Prioritize data recovery efforts based on sensitivity and importance.
+
+3. Develop a Recovery Strategy:
+   - Implement measures to recover compromised data.
+   - Ensure containment to prevent further data loss.
+
+## Tools
+- SQL
+- Data Processing Tools
