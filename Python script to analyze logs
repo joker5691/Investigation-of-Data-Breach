@@ -1,0 +1,12 @@
+import re
+
+def parse_log(file_path):
+    with open(file_path, 'r') as file:
+        logs = file.readlines()
+
+    suspicious_logs = [log for log in logs if "suspicious_activity" in log]
+    return suspicious_logs
+
+suspicious_logs = parse_log('/path/to/log/file.log')
+for log in suspicious_logs:
+    print(log)
