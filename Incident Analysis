@@ -1,0 +1,13 @@
+# Incident Analysis
+
+## Objective
+Investigate how the breach occurred, the extent of the breach, and the timeframe.
+
+## Steps
+- Identify the point of entry.
+- Determine the extent of the breach.
+- Establish the timeframe.
+
+## Tools
+- Wireshark
+- Splunk
