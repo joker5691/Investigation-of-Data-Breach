@@ -1,0 +1,25 @@
+# Forensic Analysis
+
+## Objective
+Conduct digital forensics on affected systems to identify malware or suspicious activities. Collect evidence and logs.
+
+## Steps
+1. Analyze System Logs:
+   - Collect logs from servers, firewalls, and intrusion detection systems.
+   - Use tools like LogRhythm or ELK stack for detailed analysis.
+
+2. Identify Malware:
+   - Scan systems for malware using tools like ClamAV or Malwarebytes.
+   - Isolate and document any discovered malware.
+
+3. Collect Evidence:
+   - Preserve digital evidence for potential legal proceedings.
+   - Use tools like FTK Imager or Autopsy for evidence collection and analysis.
+
+## Tools
+- LogRhythm
+- ELK Stack
+- ClamAV
+- FTK Imager
+- Autopsy
+
